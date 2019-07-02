@@ -46,7 +46,7 @@
   export default {
     components: {
     //   DashboardNavbar,
-    //   ContentFooter,
+    //   ContentFooter,aaaaa
     //   FadeTransition
     },
     data() {
