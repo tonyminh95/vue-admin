@@ -8,7 +8,7 @@ Vue.config.productionTip = false
 
 // Vue.use(ArgonDashboard)
 hjhlkjhjhhj
-new Vue({
+new Vue({jkjkljklj
     router,
     render: h => h(App),
 }).$mount('#app')
