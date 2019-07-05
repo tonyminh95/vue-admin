@@ -7,8 +7,8 @@ import router from './router'
 Vue.config.productionTip = false
 
 // Vue.use(ArgonDashboard)
-hjhlkjhjhhj
-new Vue({jkjkljklj
+
+new Vue({
     router,
     render: h => h(App),
 }).$mount('#app')
